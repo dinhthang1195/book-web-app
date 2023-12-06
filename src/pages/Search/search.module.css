@@ -1,0 +1,8 @@
+.container {
+	width: 90vw;
+}
+
+.centerLoading {
+	@apply grid items-center justify-center;
+	width: 90%;
+}
